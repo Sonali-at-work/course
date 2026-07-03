@@ -1,5 +1,6 @@
 # Class Resources
 # Class Resources
+# Class Resources
 
 This folder contains additional resources for the course. You don't need to have this folder cloned to your own computer in order to `dbt run` this project.
 
